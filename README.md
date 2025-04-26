@@ -1,6 +1,6 @@
 # 📋 Task Planet
 
-A simple React-based web application to explore, view, and complete small online tasks (install apps, watch videos, surveys, etc.).  
+React-based web application to explore, view, and complete small online tasks (install apps, watch videos, surveys, etc.).  
 Built using **React Router** for navigation, **modular CSS** for styling, and a **dynamic task system**.
 
 ---
