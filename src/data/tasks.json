@@ -1,0 +1,52 @@
+[
+    {
+      "id": "SM0973",
+      "title": "Install True Balance and get points",
+      "shortDesc": "Earn 100 points | 1 min | 26/100 users",
+      "fullDesc": "Hello Friend, Are you in urgent need of money? Quick loan for you in minutes from True Balance! https://kjkf8.app.goo.gl/un6cMaaxiKB94xBb6",
+      "points": 100,
+      "duration": "1 min",
+      "completions": "26/100",
+      "logo": "true.png"
+    },
+    {
+      "id": "SM0971",
+      "title": "Install Paytm and earn points",
+      "shortDesc": "Earn cashback on Paytm installs",
+      "fullDesc": "Install Paytm to earn 100 points instantly. Download and sign up to qualify! https://kjkf8.app.goo.gl/un6cMaaxiKB94xBb6",
+      "points": 100,
+      "duration": "1 min",
+      "completions": 22,
+      "logo": "paytm.png"
+    },
+    {
+      "id": "SM0968",
+      "title": "Install Google Pay and earn points",
+      "shortDesc": "Secure payments with Google Pay",
+      "fullDesc": "Install Google Pay and complete KYC to earn 100 points. Safe UPI payments & rewards await! https://kjkf8.app.goo.gl/un6cMaaxiKB94xBb6",
+      "points": 100,
+      "duration": "1 min",
+      "completions": 0,
+      "logo": "googleplay.png"
+    },
+    {
+      "id": "SM0900",
+      "title": "Download CRED and Earn Cashback",
+      "shortDesc": "Get ₹100 cashback on CRED signup",
+      "fullDesc": "Download the CRED app, register your credit card, and earn ₹100 cashback on first rent payment! https://kjkf8.app.goo.gl/un6cMaaxiKB94xBb6",
+      "points": 1000,
+      "duration": "1 min",
+      "completions": 13,
+      "logo": "cred.png"
+    },
+    {
+      "id": "SM0898",
+      "title": "Download PhonePe and Earn Rewards",
+      "shortDesc": "Instant UPI payments with PhonePe",
+      "fullDesc": "Download PhonePe, complete signup, and make a transaction to earn 100 points!https://kjkf8.app.goo.gl/un6cMaaxiKB94xBb6",
+      "points": 100,
+      "duration": "1 min",
+      "completions": 25,
+      "logo": "phonepay.png"
+    }
+  ]

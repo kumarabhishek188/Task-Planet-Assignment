@@ -1,0 +1,95 @@
+
+.card {
+    background: #fff;
+    border-radius: 8px;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+    margin-bottom: 16px;
+    overflow: hidden;
+  }
+  .header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 12px;
+    cursor: pointer;
+  }
+  .left {
+    display: flex;
+    align-items: center;
+  }
+  .logo {
+    width: 48px;
+    height: 48px;
+    margin-right: 12px;
+  }
+  .info {
+    flex: 1;
+  }
+  .title {
+    font-size: 1rem;
+    font-weight: 600;
+    margin: 0;
+    color: #333;
+  }
+  .id {
+    font-size: 0.8rem;
+    color: #007bff;
+    margin: 2px 0 6px;
+  }
+  .stats {
+    display: flex;
+    gap: 12px;
+    font-size: 0.8rem;
+    color: #555;
+  }
+  .statItem {
+    display: flex;
+    align-items: center;
+  }
+  .toggle {
+    font-size: 1.4rem;
+    color: #888;
+  }
+  .details {
+    padding: 12px;
+    border-top: 1px solid #eee;
+    background: #f9faff;
+  }
+  .desc {
+    font-size: 0.9rem;
+    color: #444;
+    line-height: 1.4;
+    margin-bottom: 12px;
+  }
+  .actions {
+    display: flex;
+    gap: 8px;
+    margin-bottom: 12px;
+  }
+  .btn {
+    flex: 1;
+    padding: 8px;
+    border: none;
+    border-radius: 4px;
+    font-size: 0.9rem;
+    cursor: pointer;
+  }
+  .start {
+    background: #4caf50;
+    color: #fff;
+  }
+  .share {
+    background: #fff;
+    color: #007bff;
+    border: 1px solid #007bff;
+  }
+  .detailBtn {
+    width: 100%;
+    padding: 10px;
+    background: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    font-size: 0.9rem;
+    cursor: pointer;
+  }
